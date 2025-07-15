@@ -1,0 +1,1203 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="27.0.5">
+  <diagram name="Form2" id="GxqOtuEnsSeQxEpCBC3i">
+    <mxGraphModel dx="765" dy="-700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gh4zg6icsNBSLEsDLjda-1" value="Объявленная ценность" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3958.19" y="5492" width="381" height="379" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-2" value="Покупка упаковки" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3727.21" y="4178" width="543.79" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="4025" y="4250" width="202" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-4" value="Заполнение заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4465" y="2476" width="560" height="995" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="4475" y="2940" width="540" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-6" value="Заполнение заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2249" y="2476" width="817" height="708" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-7" value="Покупка упаковки" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2247" y="4178" width="742.79" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-8" value="ящик из гофрированного картона" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4258" width="334.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Выберите тип упаковки&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2264.79" y="4218" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-10" value="263 * 176 * 99" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="2629.79" y="4258" width="334.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-11" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;гофрокороб&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4298" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-12" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;ящик из гофрированного картона&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4328" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-13" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;пакет почтовый полиэтиленовый&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4358" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-14" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;пакет почтовый полиэтиленовый с клапаном&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4388" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-15" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;тубус картонный комбинированный&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4418" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-16" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-size: 12px; text-align: center; white-space: nowrap; color: rgb(235, 235, 235);&quot;&gt;&amp;nbsp; &amp;nbsp;ящик из гофрированного картона&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#4D4D4D;strokeColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2270.56" y="4328" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.quickscroll3;dy=0.5;fillColor=#33b5e5;strokeColor=#66D5F5;" vertex="1" parent="1">
+          <mxGeometry x="2562.79" y="4258" width="23" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-18" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;ящик из гофрированного картона&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2629.79" y="4298" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-19" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;303 * 233 * 172&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2629.79" y="4328" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;403 * 290 * 189&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2629.79" y="4358" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-21" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;503 * 360 * 229&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2629.79" y="4388" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-22" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-size: 12px; text-align: center; white-space: nowrap; color: rgb(235, 235, 235);&quot;&gt;&amp;nbsp; &amp;nbsp;263 * 176 * 99&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#4D4D4D;strokeColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2629.79" y="4298" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Выберите размер упаковки&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2604.79" y="4218" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-24" value="Добавить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2739.79" y="4628" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-25" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2299.79" y="4628" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-26" value="Итоговая стоимость: 150 руб." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2504.8999999999996" y="4498" width="227" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Заполните данные об отправителе:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2308" y="2517" width="289" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-28" value="Введите фамилию отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2308" y="2564" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-29" value="Введите имя отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2308" y="2632" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-30" value="Введите отчество отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2308" y="2700" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-31" value="Введите E-mail отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2308" y="2832" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-32" value="Введите номер телефона отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2308" y="2762" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Заполните данные об адресате:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="2517" width="262" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-34" value="Введите фамилию адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="2564" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-35" value="Введите имя адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="2632" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-36" value="Введите отчество адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="2700" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-37" value="Введите E-mail адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="2832" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-38" value="Введите номер телефона адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="2762" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-39" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="2652.75" y="2525.25" width="10" height="811.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-40" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2297.79" y="2596" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-41" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2297.79" y="2663" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-42" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2297.79" y="2796" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-43" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2297.79" y="2865" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-44" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2706" y="2596" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-45" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2706" y="2663" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-46" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2706" y="2796" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-47" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2706" y="2865" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-48" value="Введите адрес пункта отправления" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2310.5" y="2962" width="281.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-49" value="Введите адрес пункта назначения" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2716.75" y="2962" width="281.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-50" value="Введите почтовый индекс&lt;div&gt;&amp;nbsp;пункта отправления&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2311.75" y="3057" width="281.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-51" value="Введите почтовый индекс&lt;div&gt;&amp;nbsp;пункта назначения&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2716.75" y="3053" width="281.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-52" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="3105" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-53" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2706" y="3012" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-54" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2302" y="3108" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-55" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="3012" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-56" value="Заполнение заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="2476" width="435" height="995" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Заполните данные об отправителе:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3312.21" y="2517.5" width="289" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-58" value="Введите фамилию отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3312.21" y="2564.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-59" value="Введите имя отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3312.21" y="2632.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-60" value="Введите отчество отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3312.21" y="2700.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-61" value="Введите E-mail отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3312.21" y="2832.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-62" value="Введите номер телефона отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3312.21" y="2762.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-63" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3302" y="2596.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-64" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3302" y="2663.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-65" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3302" y="2796.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-66" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3302" y="2865.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-67" value="&lt;span style=&quot;caret-color: rgb(108, 118, 125); text-align: left; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Введите адрес пункта отправления&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3295.21" y="2904" width="289" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-68" value="Индекс пункта отправления" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3303.81" y="3310" width="280.79" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-69" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3311.21" y="2978" width="286" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-70" value="Россия" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-69">
+          <mxGeometry width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-71" value="Казахстан" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-69">
+          <mxGeometry y="30" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-72" value="&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Выберите страну&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3311.21" y="2940" width="285.79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-73" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="3576.42" y="2956.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-74" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3311" y="3097" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-75" value="Москва" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-74">
+          <mxGeometry width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-76" value="&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Выберите населенный пункт&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3311" y="3059" width="285.79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-77" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="3576.21" y="3075.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-78" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3312.63" y="3227" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-79" value="ул. Екатерининская, д. 16/5" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-78">
+          <mxGeometry width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-80" value="&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Выберите пункт отправления&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3312.63" y="3189" width="285.79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-81" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="3577.84" y="3205.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-82" value="Санкт-Петербург" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3310.79" y="3127" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-83" value="ул. Политехническая, д. 12&amp;nbsp;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3312.63" y="3257" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-84" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле заполняется автоматически&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3294.81" y="3348" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-85" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3295.21" y="3418" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-86" value="Далее" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3469" y="3418" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-87" value="Заполнение заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3790" y="2476" width="435" height="995" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-88" value="&lt;span style=&quot;caret-color: rgb(108, 118, 125); text-align: left; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Введите адрес пункта назначения&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3850.21" y="2904" width="280" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-89" value="Индекс пункта отправления" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3853.8099999999995" y="3325" width="280.79" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-90" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3861.21" y="2978" width="286" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-91" value="Россия" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-90">
+          <mxGeometry width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-92" value="Казахстан" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-90">
+          <mxGeometry y="30" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-93" value="&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Выберите страну&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3861.21" y="2940" width="285.79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-94" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="4126.42" y="2956.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-95" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3861" y="3097" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-96" value="Москва" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-95">
+          <mxGeometry width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-97" value="&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Выберите населенный пункт&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3861" y="3059" width="285.79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-98" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="4126.21" y="3075.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-99" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3862.63" y="3242" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-100" value="ул. Владимирская, д. 2" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-99">
+          <mxGeometry width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-101" value="&lt;span style=&quot;font-size: 14px; white-space: nowrap;&quot;&gt;Выберите пункт отправления&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="3862.63" y="3204" width="285.79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-102" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="4127.84" y="3220.5" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-103" value="Саров" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3860.79" y="3157" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-104" value="ул. Московская, д. 5&amp;nbsp;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3862.63" y="3272" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-105" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле заполняется автоматически&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3844.8099999999995" y="3363" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-106" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3845.21" y="3418" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-107" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4019" y="3418" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Заполните данные об адресате:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3869.5" y="2516" width="262" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-109" value="Введите фамилию адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3869.5" y="2563" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-110" value="Введите имя адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3869.5" y="2631" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-111" value="Введите отчество адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3869.5" y="2699" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-112" value="Введите E-mail адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3869.5" y="2831" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-113" value="Введите номер телефона адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3869.5" y="2761" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-114" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3860.5" y="2595" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-115" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3860.5" y="2662" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-116" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3860.5" y="2795" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-117" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3860.5" y="2864" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-118" value="Санкт-Петербург" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3861" y="3127" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-119" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2378" y="3142" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-120" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2792" y="3143" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.993;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-86" target="gh4zg6icsNBSLEsDLjda-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3646" y="3137" as="sourcePoint" />
+            <mxPoint x="3696" y="3087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-122" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Заполните данные об отправителе:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4604.21" y="2517.5" width="289" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-123" value="Введите фамилию отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="4604.21" y="2564.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-124" value="Введите имя отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="4604.21" y="2632.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-125" value="Введите отчество отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="4604.21" y="2700.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-126" value="Введите E-mail отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="4604.21" y="2832.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-127" value="Введите номер телефона отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="4604.21" y="2762.5" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-128" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4594" y="2596.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-129" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4594" y="2663.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-130" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4594" y="2796.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-131" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4594" y="2865.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-132" value="&lt;span style=&quot;caret-color: rgb(108, 118, 125); text-align: left; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Введите адрес пункта отправления&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4587.21" y="2904" width="289" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-133" value="Индекс пункта отправления" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="4595.8099999999995" y="3310" width="280.79" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-134" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле заполняется автоматически&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4586.8099999999995" y="3348" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-135" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4587.21" y="3418" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-136" value="Далее" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4761" y="3418" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-137" value="Заполнение заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5141" y="2476" width="563" height="995" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-138" value="&lt;span style=&quot;caret-color: rgb(108, 118, 125); text-align: left; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Введите адрес пункта назначения&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5269.21" y="2904" width="280" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-139" value="Индекс пункта отправления" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="5272.8099999999995" y="3325" width="280.79" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-140" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле заполняется автоматически&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5263.8099999999995" y="3363" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-141" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5264.21" y="3418" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-142" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5438" y="3418" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-143" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Заполните данные об адресате:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5288.5" y="2516" width="262" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-144" value="Введите фамилию адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="5288.5" y="2563" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-145" value="Введите имя адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="5288.5" y="2631" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-146" value="Введите отчество адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="5288.5" y="2699" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-147" value="Введите E-mail адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="5288.5" y="2831" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-148" value="Введите номер телефона адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="5288.5" y="2761" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-149" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5279.5" y="2595" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-150" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5279.5" y="2662" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-151" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5279.5" y="2795" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-152" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5279.5" y="2864" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.993;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-136" target="gh4zg6icsNBSLEsDLjda-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4938" y="3137" as="sourcePoint" />
+            <mxPoint x="4988" y="3087" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5075" y="3429" />
+              <mxPoint x="5075" y="2561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-154" value="&amp;nbsp;Введите населенный пункт" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4495.63" y="3031" width="229" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-155" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4760.26" y="2960" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-156" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Выберите почтовое отделение на карте&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4777.47" y="3180" width="202.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-157" value="&lt;span style=&quot;color: rgb(245, 5, 5); font-size: 20px;&quot;&gt;*&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4770.26" y="3185" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-158" value="&amp;nbsp;Выберите страну" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4495.63" y="2970" width="229" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-159" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4697.86" y="2985.5765384615383" width="10.36" height="8.846153846153847" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-160" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Почтовое отделение:&amp;nbsp;&lt;/span&gt;ул. Екатерининская, д. 16/5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4480.26" y="3210" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-161" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Кликните на другую, чтобы изменить.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4470" y="3230" width="266.17" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-162" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="4698.4" y="3049.4965384615384" width="10.36" height="8.846153846153847" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-163" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="5152" y="2943.5" width="540" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-164" value="&amp;nbsp;Введите населенный пункт" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5172.63" y="3031" width="229" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-165" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5437.26" y="2963.5" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-166" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Выберите почтовое отделение на карте&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5454.47" y="3183.5" width="202.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-167" value="&lt;span style=&quot;color: rgb(245, 5, 5); font-size: 20px;&quot;&gt;*&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5447.26" y="3188.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-168" value="&amp;nbsp;Выберите страну" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5172.63" y="2973.5" width="229" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-169" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5374.86" y="2989.0765384615383" width="10.36" height="8.846153846153847" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-170" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Почтовое отделение:&amp;nbsp;&lt;/span&gt;ул. Московская, д. 5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5157.26" y="3213.5" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-171" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Кликните на другую, чтобы изменить.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5147" y="3233.5" width="266.17" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-172" value="" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="5375.4" y="3049.4965384615384" width="10.36" height="8.846153846153847" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-173" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4489" y="3001" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-174" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4489" y="3063" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-175" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5166" y="3004" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-176" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5166" y="3063" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-177" value="Выбор упаковки" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1699" y="4178" width="461" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-178" value="Своя упаковка" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1738" y="4318" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-179" value="Приобрести" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1973" y="4318" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-180" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;Вы планируете использовать&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;свою упаковку для отправления,&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;или вам требуется приобрести&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;необходимые материалы&lt;/span&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="4219" width="227" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-181" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-179" target="gh4zg6icsNBSLEsDLjda-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2264" y="4488" as="sourcePoint" />
+            <mxPoint x="2314" y="4438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-182" value="Выбрать" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4029" y="4628" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-183" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="4628" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-184" value="Выбор упаковки" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3179.21" y="4178" width="461" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-185" value="Своя упаковка" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3218.21" y="4318" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-186" value="Приобрести" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3453.21" y="4318" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-187" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;Вы планируете использовать&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;свою упаковку для отправления,&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;или вам требуется приобрести&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;необходимые материалы&lt;/span&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="3296.21" y="4219" width="227" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-188" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-186" target="gh4zg6icsNBSLEsDLjda-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3744.21" y="4488" as="sourcePoint" />
+            <mxPoint x="3794.21" y="4438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-189" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="4049.5" y="4456" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-190" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="3795.5" y="4456" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-191" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="3795.5" y="4271" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-192" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="4049.5" y="4271" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-193" value="гофрокороб" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3827" y="4390" width="86" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-194" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp;ящик из гофрированного&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;картона&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4038.5" y="4388" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-195" value="пакет почтовый&amp;nbsp;&lt;div&gt;полиэтиленовый&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4067" y="4571" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-196" value="тубус картонный&amp;nbsp;&lt;div&gt;комбинированный&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3809" y="4571" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-197" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="4251" y="4208" width="20" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-198" value="Ящик из гофрированного картона" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4401.13" y="4178" width="418" height="476" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-199" value="263 * 176 * 99" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4264" width="334.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-200" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;ящик из гофрированного картона&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4304" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-201" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;303 * 233 * 172&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4334" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-202" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;403 * 290 * 189&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4364" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-203" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;503 * 360 * 229&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4394" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-204" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-size: 12px; text-align: center; white-space: nowrap; color: rgb(235, 235, 235);&quot;&gt;&amp;nbsp; &amp;nbsp;263 * 176 * 99&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#4D4D4D;strokeColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4304" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-205" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Выберите размер упаковки&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4413.13" y="4224" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-206" value="Итоговая стоимость: 150 руб." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="4496.63" y="4474" width="227" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-207" value="Добавить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4632.13" y="4578" width="145.86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-208" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4438.13" y="4580" width="144" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-209" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-182" target="gh4zg6icsNBSLEsDLjda-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4001" y="4489" as="sourcePoint" />
+            <mxPoint x="4051" y="4439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-210" value="Покупка упаковки" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5569" y="4163" width="543.79" height="665" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-211" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="5866.79" y="4258" width="202" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-212" value="Добавить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5870.4" y="4747" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-213" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5621.4" y="4747" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-214" value="Выбор упаковки" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5021" y="4163" width="461" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-215" value="Своя упаковка" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5060" y="4303" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-216" value="Приобрести" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5295" y="4303" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-217" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;Вы планируете использовать&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;свою упаковку для отправления,&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;или вам требуется приобрести&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span&gt;необходимые материалы&lt;/span&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="5138" y="4204" width="227" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-218" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-216" target="gh4zg6icsNBSLEsDLjda-210">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5586" y="4473" as="sourcePoint" />
+            <mxPoint x="5636" y="4423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-219" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="5893.4" y="4520" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-220" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="5639.4" y="4520" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-221" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="5637.29" y="4279" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-222" value="Products" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.products;" vertex="1" parent="1">
+          <mxGeometry x="5891.29" y="4279" width="149" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-223" value="&amp;nbsp;&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;ящик из гофрированного&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;картона, &lt;span style=&quot;caret-color: rgb(102, 102, 102);&quot;&gt;303 * 233 * 172&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5626.79" y="4391" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-224" value="&lt;span&gt;&amp;nbsp; &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;ящик из гофрированного&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&amp;nbsp;картона,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(102, 102, 102); text-align: left;&quot;&gt;263 * 176 * 99&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5880.29" y="4396" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-225" value="&amp;nbsp;&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;ящик из гофрированного&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;картона, &lt;span style=&quot;caret-color: rgb(102, 102, 102);&quot;&gt;530 * 360 * 229&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5882.9" y="4635" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-226" value="&amp;nbsp;&amp;nbsp;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;ящик из гофрированного&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;картона, &lt;span style=&quot;caret-color: rgb(102, 102, 102);&quot;&gt;403 * 290 * 189&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5628.9" y="4635" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-227" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="6092.79" y="4193" width="20" height="634" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-228" value="150 р." style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5915.04" y="4456" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-229" value="300 р." style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5915.04" y="4688" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-230" value="250 р." style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5659.54" y="4688" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-231" value="200 р." style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#999999;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="5661.65" y="4459" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-232" value="" style="shape=rect;fillColor=#e0e0e0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5638" y="4202" width="429" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-233" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;strokeColor=none;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-232">
+          <mxGeometry width="429" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-234" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Search&lt;/font&gt;" style="shape=mxgraph.ios7.icons.looking_glass;strokeColor=#e0e0e0;fillColor=none;fontColor=#e0e0e0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=6;fontStyle=0;spacingTop=2;sketch=0;html=1;strokeWidth=1;perimeterSpacing=4;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-232">
+          <mxGeometry x="0.5" y="0.5" width="6" height="6" relative="1" as="geometry">
+            <mxPoint x="-26" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-235" value="Заявление на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1697" y="4986" width="708" height="1132" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-236" value="&lt;b&gt;Отправитель&lt;/b&gt;: Шклярова Ксения Алексеевна&lt;div&gt;&lt;b&gt;Номер телефона&lt;/b&gt;: +7 (922) 775 - 53 - 20&lt;/div&gt;&lt;div&gt;&lt;b&gt;E-mail&lt;/b&gt;: xuxa@edu.spbstu&lt;/div&gt;&lt;div&gt;&lt;b&gt;Пункт отправления&lt;/b&gt;: Санкт-Петербург, ул. Екатерининская, д. 16/5&lt;/div&gt;&lt;div&gt;&lt;b&gt;Индекс&lt;/b&gt;:&amp;nbsp;123-987&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="5030" width="657" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-237" value="&lt;b&gt;Адресат&lt;/b&gt;: Яшнова Дарья Михайловна&lt;div&gt;&lt;b&gt;Номер телефона&lt;/b&gt;: +7 (922) 775-53-20&lt;/div&gt;&lt;div&gt;&lt;b&gt;E-mail&lt;/b&gt;: dasha@edu.spbstu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Пункт назначения&lt;/b&gt;:&amp;nbsp;Россия, Нижегородская область, Саров, ул. Московская, д. 5&lt;/div&gt;&lt;div&gt;&lt;b&gt;Индекс&lt;/b&gt;:&amp;nbsp;167-854&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="5184" width="658" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-238" value="посылка 1 класса" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5372" width="334.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-239" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Выберите вид отправления&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="5332" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-240" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;письмо&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5412" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-241" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;ящик из гофрированного картона&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5442" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-242" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;заказное письмо 1 класса&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=#DFDFDF;fillColor=light-dark(#e9ecef, #121212);align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5472" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-243" value="&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;мелкий пакет&lt;/span&gt;" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5502" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-244" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-size: 12px; text-align: center; white-space: nowrap; color: rgb(235, 235, 235);&quot;&gt;&amp;nbsp; &amp;nbsp;посылка 1 класс&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#4D4D4D;strokeColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5442" width="304.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-245" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.quickscroll3;dy=0.5;fillColor=#33b5e5;strokeColor=#66D5F5;" vertex="1" parent="1">
+          <mxGeometry x="2017" y="5372" width="23" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-246" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="5344" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-247" value="Вы хотите назначить ценность?" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="1715.23" y="5577" width="310.77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-248" value="Введите сумму" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1729" y="5656" width="320" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-249" value="Обратите внимание, что&amp;nbsp;&lt;div&gt;стоимость доставки может&lt;/div&gt;&lt;div&gt;&amp;nbsp;варьироваться в зависимости&lt;/div&gt;&lt;div&gt;&amp;nbsp;от вида отправления&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="2112" y="5392" width="233" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-250" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1729" y="5610" width="316" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-251" value="Да" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-250">
+          <mxGeometry width="165" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-252" value="Нет" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-250">
+          <mxGeometry x="165" width="151" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-253" value="Сделайте опись вложения" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1729.9" y="5724" width="627.1" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-254" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="5691" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-255" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1724" y="5837" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-256" value="Вы хотите назначить наложенный платеж?" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="1724.77" y="5901" width="414.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-257" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=light-dark(#3a88fe, #121212);fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1738" y="5937" width="316" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-258" value="&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;Да&lt;/span&gt;" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#FFFFFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-257">
+          <mxGeometry width="165" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-259" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Нет&lt;/span&gt;" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-257">
+          <mxGeometry x="165" width="151" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-260" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1761.45" y="6042" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-261" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2175.45" y="6043" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-262" value="Заявление на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3192" y="5006" width="708" height="937" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-263" value="&lt;b&gt;Отправитель&lt;/b&gt;: Шклярова Ксения Алексеевна&lt;div&gt;&lt;b&gt;Номер телефона&lt;/b&gt;: +7 (922) 775 - 53 - 20&lt;/div&gt;&lt;div&gt;&lt;b&gt;E-mail&lt;/b&gt;: xuxa@edu.spbstu&lt;/div&gt;&lt;div&gt;&lt;b&gt;Пункт отправления&lt;/b&gt;: Санкт-Петербург, ул. Екатерининская, д. 16/5&lt;/div&gt;&lt;div&gt;&lt;b&gt;Индекс&lt;/b&gt;:&amp;nbsp;123-987&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="3214" y="5050" width="657" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-264" value="&lt;b&gt;Адресат&lt;/b&gt;: Яшнова Дарья Михайловна&lt;div&gt;&lt;b&gt;Номер телефона&lt;/b&gt;: +7 (922) 775-53-20&lt;/div&gt;&lt;div&gt;&lt;b&gt;E-mail&lt;/b&gt;: dasha@edu.spbstu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Пункт назначения&lt;/b&gt;:&amp;nbsp;Россия, Нижегородская область, Саров, ул. Московская, д. 5&lt;/div&gt;&lt;div&gt;&lt;b&gt;Индекс&lt;/b&gt;:&amp;nbsp;167-854&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="3214" y="5204" width="658" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-265" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Выберите вид отправления&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="5352" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-266" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="5364" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-267" value="Вы хотите назначить ценность?" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="3210.19" y="5639" width="310.77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-268" value="Введите сумму" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3980.19" y="5548" width="335" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-269" value="Обратите внимание, что&amp;nbsp;&lt;div&gt;стоимость доставки может&lt;/div&gt;&lt;div&gt;&amp;nbsp;варьироваться в зависимости&lt;/div&gt;&lt;div&gt;&amp;nbsp;от вида отправления&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="3607" y="5412" width="233" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-270" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3223.96" y="5672" width="316" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-271" value="Да" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-270">
+          <mxGeometry width="165" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-272" value="Нет" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-270">
+          <mxGeometry x="165" width="151" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-273" value="Сделайте опись вложения" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="3981.09" y="5616" width="333.1" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-274" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3971.19" y="5583" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-275" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3975.19" y="5729" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-276" value="Вы хотите назначить наложенный платеж?" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="5731" width="414.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-277" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=light-dark(#3a88fe, #121212);fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3223.23" y="5767" width="316" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-278" value="&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;Да&lt;/span&gt;" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#FFFFFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-277">
+          <mxGeometry width="165" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-279" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Нет&lt;/span&gt;" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-277">
+          <mxGeometry x="165" width="151" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-280" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3246.6800000000003" y="5872" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-281" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3660.68" y="5873" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-282" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3220.19" y="5432" width="352" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-283" value="заказной мелкий пакет" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-282">
+          <mxGeometry width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-284" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-283">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-285" value="мелкий пакет" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-282">
+          <mxGeometry y="30" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-286" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-285">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-287" value="посылка 1 класса" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=#008CFF;fontSize=17;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-282">
+          <mxGeometry y="60" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-288" value="" style="shape=mxgraph.mockup.forms.checkbox;resizable=0;fillColor=#AAAAAA;gradientColor=#666666;strokeColor=#444444;html=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-287">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-289" value="посылка" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-282">
+          <mxGeometry y="90" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-290" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-289">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-291" value="посылка международная" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-282">
+          <mxGeometry y="120" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-292" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-291">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-293" value="ценная посылка" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-282">
+          <mxGeometry y="150" width="352" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-294" value="" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-293">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-295" value="Письмо" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3219.77" y="5402" width="91.42" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-296" value="Посылка" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="3316.19" y="5402" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-297" value="Бандероль" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3432.19" y="5402" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-298" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3983.19" y="5787" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-299" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4164.1900000000005" y="5787" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-300" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.799;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.141;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-271" target="gh4zg6icsNBSLEsDLjda-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3937.19" y="5724" as="sourcePoint" />
+            <mxPoint x="3987.19" y="5674" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3356.19" y="5725" />
+              <mxPoint x="3673.19" y="5725" />
+              <mxPoint x="3673.19" y="5545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-301" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.2;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-299" target="gh4zg6icsNBSLEsDLjda-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3964.19" y="5780" as="sourcePoint" />
+            <mxPoint x="3904.19" y="5827" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4194.1900000000005" y="5846" />
+              <mxPoint x="3900.19" y="5846" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-302" value="Наложенный платеж" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2695" y="5678" width="381" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-303" value="Введите сумму" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2717" y="5734" width="335" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-304" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2708" y="5769" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-305" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2719" y="5815" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-306" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="5815" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-307" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-278" target="gh4zg6icsNBSLEsDLjda-302">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3315" y="5627" as="sourcePoint" />
+            <mxPoint x="3365" y="5577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-308" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.009;exitY=0.689;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gh4zg6icsNBSLEsDLjda-306" target="gh4zg6icsNBSLEsDLjda-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3315" y="5627" as="sourcePoint" />
+            <mxPoint x="3365" y="5577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-309" value="Редактирование заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1687" y="6536" width="708" height="1007" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-310" value="&lt;b&gt;Отправитель&lt;/b&gt;: Шклярова Ксения Алексеевна&lt;div&gt;&lt;b&gt;E-mail&lt;/b&gt;: xuxa@edu.spbstu&lt;/div&gt;&lt;div&gt;&lt;b&gt;Пункт отправления&lt;/b&gt;: Санкт-Петербург, ул. Екатерининская, д. 16/5&lt;/div&gt;&lt;div&gt;&lt;b&gt;Индекс&lt;/b&gt;:&amp;nbsp;123-987&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1709" y="6580" width="657" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-311" value="&lt;b&gt;Адресат&lt;/b&gt;: Яшнова Дарья Михайловна&lt;div&gt;&lt;b&gt;E-mail&lt;/b&gt;: dasha@edu.spbstu&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Пункт назначения&lt;/b&gt;:&amp;nbsp;Россия, Нижегородская область, Саров, ул. Московская, д. 5&lt;/div&gt;&lt;div&gt;&lt;b&gt;Индекс&lt;/b&gt;:&amp;nbsp;167-854&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1709" y="6689" width="658" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-312" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1751.45" y="7479" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-313" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2165.45" y="7480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-314" value="&lt;b&gt;Вид отправления:&lt;/b&gt;&amp;nbsp;посылка 1 класса&lt;div&gt;&lt;b&gt;Наложенный платеж: &lt;/b&gt;0 руб.&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=left;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1709" y="6794" width="658" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-315" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;У отправителя и адресата одинаковый номер телефона, хотя ФИО разные, проверьте на наличие ошибки&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Некорректная опись вложения, необходимо&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px; caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;указывать все пересылаемые предметы, их количество и сумму оценки (в полных рублях) для каждого предмета&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="6887" width="654" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-316" value="Комментарий оператора почтовой связи" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-315">
+          <mxGeometry x="5" y="1" width="361" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-317" value="Введите номер телефона отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1719.21" y="7106" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-318" value="Введите номер телефона адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="7106" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-319" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1709" y="7140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-320" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2072" y="7140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-321" value="1. Введите заново номера телефонов" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="7055" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-322" value="2. Сделайте новую опись вложения" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="7203" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-323" value="Введите сумму" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1719" y="7240" width="320" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-324" value="Сделайте опись вложения" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1719.9" y="7308" width="627.1" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-325" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="7275" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-326" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1714" y="7421" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-327" value="Редактирование заявления на отправление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="6536" width="708" height="1152" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-328" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;У отправителя и адресата одинаковый номер телефона, хотя ФИО разные, проверьте на наличие ошибки&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Некорректная опись вложения, необходимо&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px; caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;указывать все пересылаемые предметы, их количество и сумму оценки (в полных рублях) для каждого предмета&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2573" y="6585" width="654" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-329" value="Комментарий оператора почтовой связи" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-328">
+          <mxGeometry x="5" y="1" width="361" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-330" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Данные об отправителе:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2626.21" y="6740" width="204" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-331" value="Шклярова" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2583.21" y="6787" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-332" value="Ксения" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2583.21" y="6834" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-333" value="Алексеевна" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2583.21" y="6881" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-334" value="xuxa@edu.spbstu" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2583.21" y="6992" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-335" value="Введите номер телефона отправителя" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2583.21" y="6931" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-336" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Данные об адресате:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2980.23" y="6740" width="178" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-337" value="Яшнова" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2938.23" y="6787" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-338" value="Дарья" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2938.96" y="6834" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-339" value="Михайловна" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2938.96" y="6881" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-340" value="dasha@edu.spbstu" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#999999,#323436);strokeWidth=1;fillColor=light-dark(#FFFFFF,#292A2C);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2938.96" y="6992" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-341" value="Введите номер телефона адресата" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2938.96" y="6931" width="285" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-342" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="2898" y="6702" width="10" height="693.37" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-343" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2573" y="6967" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-344" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2929.79" y="6967" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-345" value="&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;Санкт-Петербург,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;ул. Екатерининская, д. 16/5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2584.96" y="7101" width="281.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-346" value="&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;Россия, Нижегородская область,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;&amp;nbsp;Саров, ул. Московская, д. 5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2940.71" y="7097.5" width="281.5" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-347" value="Индекс: 123-987" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2587.46" y="7175" width="278.54" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-348" value="Индекс: 167-854" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="2940.71" y="7175" width="281.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-349" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Пункт отправления&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2632.79" y="7064" width="165" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-350" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Пункт назначения&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2991.23" y="7064" width="156" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-351" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="6881" width="10" height="693.37" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-352" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Вид отправления&lt;/b&gt;: посылка 1 класса&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2577.71" y="7251" width="301" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-353" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Наложенный платеж: &lt;/b&gt;0 руб.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2577.71" y="7293" width="240" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-354" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="2899" y="6992" width="10" height="693.37" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-355" value="Опись вложения" style="strokeColor=none;fillColor=none;fontColor=light-dark(#000000, #878787);whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="2576" y="7360" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-356" value="Введите сумму" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2576" y="7397" width="320" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-357" value="Сделайте опись вложения" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=light-dark(#e9ecef, #323436);strokeWidth=1;fillColor=light-dark(#e9ecef, #292a2c);fontColor=#383D41;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="2576.9" y="7465" width="627.1" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-358" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2567" y="7432" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-359" value="&lt;span style=&quot;color: rgb(255, 38, 0);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Это поле не должно быть пустым&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2571" y="7578" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-360" value="Отмена" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2603.5" y="7633" width="151.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-361" value="Готово" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3017.5" y="7634" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-362" value="Уведомление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5263.81" y="5070" width="576.19" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-364" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5482.26" y="5351" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-365" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;При проверке содержимого вашего отправления&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;было обнаружено вложение, которое является&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;недопустимым к отправлению&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="5279.5" y="5111" width="540.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-366" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;товары, подвергающиеся быстрой порче&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5279.5" y="5202.75" width="540" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-367" value="Категория, к которой относится ваше вложение" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-366">
+          <mxGeometry x="5" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-368" value="Уведомление" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5920" y="5070" width="576.19" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-369" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6133.09" y="5502" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-370" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;При проверке содержимого вашего отправления&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;было обнаружено вложение, которое является&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;недопустимым к отправлению&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#f5f5f5;strokeColor=#666666;align=center;spacing=15;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="5935.6900000000005" y="5111" width="540.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-371" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;товары, подвергающиеся быстрой порче&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5935.6900000000005" y="5202.75" width="540" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-372" value="Категория, к которой относится ваше вложение" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-371">
+          <mxGeometry x="5" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-373" value="Список предметов, запрещенных к пересылке" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="5935.69" y="5317" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-374" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-373">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-375" value="" style="swimlane;container=1;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;marginTop=10;marginBottom=10;" vertex="1" parent="1">
+          <mxGeometry x="5935.69" y="5357" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-376" value="&lt;span style=&quot;font-size: 16px; caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;• Оружие&amp;nbsp;&lt;/span&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-375">
+          <mxGeometry y="10" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-377" value="&lt;span style=&quot;caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;• Товары, подвергающиеся быстрой порче&lt;/span&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-375">
+          <mxGeometry y="40" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-378" value="&lt;span style=&quot;font-size: 16px; caret-color: rgba(37, 38, 48, 0.94); color: rgba(37, 38, 48, 0.94); font-family: Golos, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;• Наркотические средства&lt;/span&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=20;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" vertex="1" parent="gh4zg6icsNBSLEsDLjda-375">
+          <mxGeometry y="80" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gh4zg6icsNBSLEsDLjda-382" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.quickscroll3;dy=0.5;fillColor=#33b5e5;strokeColor=#66D5F5;" vertex="1" parent="1">
+          <mxGeometry x="6266.69" y="5362" width="6" height="113" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
