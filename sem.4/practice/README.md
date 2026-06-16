@@ -6,7 +6,7 @@
 
 [Цикл полезных статей по MPI](https://habr.com/ru/articles/548266/)
 
-Про OpenMP тоже достаточно всего на гитхабе:
+Про OpenMP тоже достаточно всего на хабре:
 1. [Технология OpenMP](https://habr.com/ru/companies/intel/articles/82486/)
 2. [Инструментарий для OpenMP](https://habr.com/ru/companies/intel/articles/83504/)
 3. [Базовые конструкции OpenMP](https://habr.com/ru/companies/intel/articles/85273/)
